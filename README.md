@@ -85,11 +85,12 @@ plt.show()
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
-
-Include your plot here
+![o1](https://github.com/BALA291/rnn-stock-price-prediction/assets/120717501/293185a1-ed18-4697-890c-cf9b6b2ae2f0)
 
 ### Mean Square Error
+![ms1](https://github.com/BALA291/rnn-stock-price-prediction/assets/120717501/abc70227-bb60-4cbb-b574-14cc9c96cbb1)
+![ms2](https://github.com/BALA291/rnn-stock-price-prediction/assets/120717501/4fea25e7-c7ff-44d3-b48c-61945ac88e00)
 
-Include the mean square error
 
 ## Result
+Hence, we have successfully created a Simple RNN model for Stock Price Prediction.
